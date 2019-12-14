@@ -1,2 +1,11 @@
-# Personal_Portfolio
-This is my personal portfolio
+ My Personal Portfolio
+==========================
+
+Created by Julia Koldorkina
+
+
+Tech Stack:
+--------------
+* HTML
+* CSS, Bootstrap
+

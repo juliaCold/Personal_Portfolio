@@ -1,0 +1,29 @@
+body {
+  background: #eee;
+}
+#main {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+#img-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#tribute-info {
+  width: 70%;
+}
+
+li {
+    width: 500px;
+    height: 70px;
+    text-align: left;
+}
